@@ -1,7 +1,7 @@
 # LinkedIn-Posts
 All the PDF files to my LinkedIn Posts
 
-[Leveraging SQL OpenQuery for Data Access in Restricted Environments]([https://github.com/akadambi12/LinkedIn-Posts/blob/main/Green%20Teal%20Geometric%20Modern%20Computer%20Programmer%20Code%20Editor%20Quotes%20Instagram%20Post.pdf]
+[Leveraging SQL OpenQuery for Data Access in Restricted Environments](https://github.com/akadambi12/LinkedIn-Posts/blob/main/Green%20Teal%20Geometric%20Modern%20Computer%20Programmer%20Code%20Editor%20Quotes%20Instagram%20Post.pdf)
 In the world of data analytics, accessing data from diverse sources efficiently is crucial. I want to share a case study where SQL OpenQuery played a pivotal role in overcoming access restrictions to achieve seamless data integration.
 
 Situation:
