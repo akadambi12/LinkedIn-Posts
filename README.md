@@ -41,7 +41,7 @@ Navigating the financial landscape demands a firm understanding of core concepts
 - Performance Metrics: Metrics like EBITDA, ROI, and various profit margins provide snapshots of a company’s health and operational success.
 - Market Dynamics: Grasping the nuances of capital markets, the role of institutional investors, and the strategies behind mutual and hedge funds are vital for robust financial analysis.
 
-- [3. Types of Healthcare Data](https://www.linkedin.com/posts/anupama-kadambi12_insights-for-healthcare-data-analysts-activity-7185729045039337473-2ckV?utm_source=share&utm_medium=member_desktop)
+[3. Types of Healthcare Data](https://www.linkedin.com/posts/anupama-kadambi12_insights-for-healthcare-data-analysts-activity-7185729045039337473-2ckV?utm_source=share&utm_medium=member_desktop)
 
 [GitHub File ](https://github.com/akadambi12/LinkedIn-Posts/blob/main/Types%20of%20Healthcare%20Data.pdf)
 
@@ -58,5 +58,25 @@ I have particularly focused on Data Cleaning and Feature Engineering for this da
 I have also performed Exploratory Data Analysis to visualize patient metrics.
 Feel free to drop your opinion in the comments and also check out my project on Github! 
 https://lnkd.in/eWKd6akA
+
+[4. What comes after SQL, Python and R?](https://www.linkedin.com/posts/anupama-kadambi12_what-comes-after-sql-python-and-r-activity-7189317348921593856-9LPK?utm_source=share&utm_medium=member_desktop)
+
+[GitHub File ](https://github.com/akadambi12/LinkedIn-Posts/blob/main/What%20comes%20after%20SQL%2C%20Python%20and%20R%3F.pdf)
+
+After a week of analyzing healthcare data, I've compiled a guide to help anyone interested in starting a career in finance.
+
+To be a successful financial analyst, you need to know not only fundamental tools like SQL, Python, R, Tableau, and Excel but also some financial sector-specific tools and concepts. Here are some of them:
+
+1. Bloomberg Terminal: A powerful platform for financial data analysis, used to track market trends, securities, and financial news.
+
+2. FactSet: A financial research and data platform used for investment analysis, portfolio management, and risk assessment.
+
+3. Financial Modeling: Skills in building financial models, including discounted cash flow (DCF), leveraged buyout (LBO), and mergers and acquisitions (M&A) modeling.
+
+4. Accounting Software: Knowledge of accounting software like QuickBooks or SAP to manage financial records and generate financial reports.
+
+5. Statistical Analysis Tools: Advanced tools for statistical analysis, such as SAS or SPSS, can help with in-depth financial data analysis.
+
+Equipped with these tools and concepts, you'll be ready to navigate the financial sector as a data analyst and take the next step toward becoming a successful financial analyst. 
 
 
