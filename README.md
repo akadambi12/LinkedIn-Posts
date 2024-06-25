@@ -26,3 +26,16 @@ Some typical queries used on Parent - Child Tree include:
 3. Get a Generation Number (or Tree Level) for Each Node : CTEs
 
 The queries below clearly demonstrate each of the approaches from simple to complex. The second approach is the correct solution for this problem. However, I went one step ahead and used recursive CTE to generate the tree level for clarity. 
+
+
+[2. Essential Insights for Financial Analysts](https://www.linkedin.com/feed/update/urn:li:activity:7191130949160456193/)
+[GitHub file ](https://github.com/akadambi12/LinkedIn-Posts/blob/main/Insights%20for%20Fianancial%20Data%20Analysts.pdf)
+Continuing from last week's post on fundamental tools like SQL, Python, R, Tableau, and Excel: https://lnkd.in/eNdHXu9t and also some financial sector-specific tools and concepts, I'm excited to share a new post busting Financial Jargon, and making it easy to understand by taking the example of FinCap Solutions, a hypothetical fintech organization based in NYC that specializes in investment management, personal finance advisory, and corporate financial consulting. Serving a global clientele, FinCap exemplifies the intricacies and opportunities within the financial sector.
+
+Navigating the financial landscape demands a firm understanding of core concepts, crucial for any analyst looking to make an impact. Here’s a distilled overview, illuminated by examples from FinCap Solutions:
+
+- Assets and Liabilities: From the liquidity of cash equivalents to the valuation of fixed assets, understanding what a company owns versus what it owes is foundational.
+- Investment Vehicles: Whether it’s bonds providing steady income or stocks offering a share in company profits, knowing how to manage these can significantly influence financial outcomes.
+- Financial Statements: The balance sheet, income statement, and cash flow statement are the maps that guide corporate strategy and decision-making.
+- Performance Metrics: Metrics like EBITDA, ROI, and various profit margins provide snapshots of a company’s health and operational success.
+- Market Dynamics: Grasping the nuances of capital markets, the role of institutional investors, and the strategies behind mutual and hedge funds are vital for robust financial analysis.
