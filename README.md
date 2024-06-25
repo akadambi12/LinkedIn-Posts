@@ -29,6 +29,7 @@ The queries below clearly demonstrate each of the approaches from simple to comp
 
 
 [2. Essential Insights for Financial Analysts](https://www.linkedin.com/feed/update/urn:li:activity:7191130949160456193/)
+
 [GitHub file ](https://github.com/akadambi12/LinkedIn-Posts/blob/main/Insights%20for%20Fianancial%20Data%20Analysts.pdf)
 Continuing from last week's post on fundamental tools like SQL, Python, R, Tableau, and Excel: https://lnkd.in/eNdHXu9t and also some financial sector-specific tools and concepts, I'm excited to share a new post busting Financial Jargon, and making it easy to understand by taking the example of FinCap Solutions, a hypothetical fintech organization based in NYC that specializes in investment management, personal finance advisory, and corporate financial consulting. Serving a global clientele, FinCap exemplifies the intricacies and opportunities within the financial sector.
 
@@ -39,3 +40,23 @@ Navigating the financial landscape demands a firm understanding of core concepts
 - Financial Statements: The balance sheet, income statement, and cash flow statement are the maps that guide corporate strategy and decision-making.
 - Performance Metrics: Metrics like EBITDA, ROI, and various profit margins provide snapshots of a company’s health and operational success.
 - Market Dynamics: Grasping the nuances of capital markets, the role of institutional investors, and the strategies behind mutual and hedge funds are vital for robust financial analysis.
+
+- [3. Types of Healthcare Data](https://www.linkedin.com/posts/anupama-kadambi12_insights-for-healthcare-data-analysts-activity-7185729045039337473-2ckV?utm_source=share&utm_medium=member_desktop)
+
+[GitHub File ](https://github.com/akadambi12/LinkedIn-Posts/blob/main/Types%20of%20Healthcare%20Data.pdf)
+
+Through independent research and hands-on experience, I've accumulated valuable insights that are pivotal for anyone starting or transitioning into healthcare data analysis. 
+
+To aid fellow professionals, I've compiled a concise guide that covers essential knowledge and handy cheat sheets tailored for healthcare data analysts. This guide is designed to demystify the complexities of the field and provide practical tools to help you thrive. 
+
+Whether you're a newcomer or looking to deepen your expertise, I hope this resource empowers you to make impactful contributions to healthcare through data.
+
+I have personally worked on a project focusing on predictive analytics: "Predicting patient Readmission" based on a dataset containing heath stats of diabetic patients. 
+
+I have particularly focused on Data Cleaning and Feature Engineering for this dataset containing 100,000+ records and 49 features. 
+
+I have also performed Exploratory Data Analysis to visualize patient metrics.
+Feel free to drop your opinion in the comments and also check out my project on Github! 
+https://lnkd.in/eWKd6akA
+
+
