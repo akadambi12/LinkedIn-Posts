@@ -1,7 +1,7 @@
 # LinkedIn-Posts
 All the PDF files to my LinkedIn Posts
 
-[1. Exploring Parent-Child Relationship in SQL? 👩‍💻 ](https://www.linkedin.com/feed/update/urn:li:activity:7210071709310164992/)
+[1. Exploring Parent-Child Relationship in SQL? 👩‍💻 ](https://www.linkedin.com/feed/update/urn:li:activity:7210071709310164992/)  [GitHub File](https://github.com/akadambi12/LinkedIn-Posts/blob/main/Parent%20Child%20relationship%20SQL.pdf) 
 
 If you're new to the concept of Parent-Child relationship in SQL, this post is going to give you a valuable insight into this tricky concept.
 
